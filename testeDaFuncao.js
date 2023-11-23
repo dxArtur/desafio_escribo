@@ -1,5 +1,7 @@
 const  somatoriaDosDivisiveis = require('./desafioEscribo')
 
+
+//para adicionar mais casos de testes é só adicionar o valor desejado a esse array
 const valoresTestes =[ 10, 11, -1, 1.5, true, false, undefined, null, ]
 
 
